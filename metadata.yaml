@@ -1,0 +1,27 @@
+_repo: Sainetes_63019
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arniches y Barrera, Carlos
+    aliases:
+    - Arniches, Carlos
+    - Arniches, C. (Carlos)
+    - Barrera, Carlos Arniches y
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '47633'
+    url: http://www.gutenberg.org/2009/agents/47633
+    wikipedia: https://es.wikipedia.org/wiki/Carlos_Arniches
+description: ''
+gutenberg_issued: '2020-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63019'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sainetes
+url: http://www.gutenberg.org/ebooks/63019
